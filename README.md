@@ -14,14 +14,9 @@
 # Development Environment
 
 {I used Micrsoft VSCode and sever C++ Libraries:
-<graphics.h>
-<stdlib.h>
-<stdio.h>
+<iostream>
 <conio.h>
-<dos.h>
-<iostream.h>
-<fstream.h>
-<string.h>
+
 
 }
 
@@ -34,6 +29,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
+* create a more graphical GUI
+* Fix it so it is not blinking
 * Fix the mobility so it is more fluid
