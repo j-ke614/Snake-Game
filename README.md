@@ -2,7 +2,7 @@
 
 {This is a basic snake Game that I built to learn how to code in the C++ language.}
 
-{I wrote this ti learn and implement the C++ code and give me a project to verify expereince.}
+{I wrote this to learn and implement the C++ code and give me a project to verify expereince.}
 
 
 [Software Demo Video](http://youtube.link.goes.here)
