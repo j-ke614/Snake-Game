@@ -5,7 +5,7 @@
 {I wrote this to learn and implement the C++ code and give me a project to verify expereince.}
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/n7mm4dZVNKw)
 
 # Data Analysis Results
 
@@ -14,11 +14,9 @@
 # Development Environment
 
 {I used Micrsoft VSCode and several C++ Libraries:
+
 <iostream>
-<conio.h>
-
-
-}
+<conio.h>}
 
 # Useful Websites
 
