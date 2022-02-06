@@ -13,7 +13,7 @@
 
 # Development Environment
 
-{I used Micrsoft VSCode and sever C++ Libraries:
+{I used Micrsoft VSCode and several C++ Libraries:
 <iostream>
 <conio.h>
 
