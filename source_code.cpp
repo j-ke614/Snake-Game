@@ -36,7 +36,7 @@ else {
 bool print = false;
 for (int k = 0; k< nTail ; k++) {
 if (tailX [k] == j && tailY [k] == i) {
-cout << "o"; print = true;
+cout << "#"; print = true;
 }
 }
 if (!print) cout << " ";
